@@ -1,4 +1,4 @@
-# About the Breast Cancer Risk Prediction Project
+## About the Breast Cancer Risk Prediction Project
 
 The Breast Cancer Risk Prediction Project (BCRPP) is developing a comprehensive tool that will predict breast cancer risk – overall breast cancer and tumor subtypes of the disease – across women of diverse backgrounds.
 
@@ -16,3 +16,10 @@ In addition to these broad scientific goals, the BCRPP will also allow researche
 
 For more information about the BCRPP, including how to propose analyses and request access to data shared with the BCRPP, visit the BCRPP data platform (Platform will be available in November 2023)
 
+
+
+# Organization of BCRPP Repositories
+
+**Data-Management** - This repository stores (1) data quality control code that is ran on code that is already harmonized to the BCRPP data dictionary; (2) code for generating summary statistics of BCRPP data that are presented on the BCRPP data platform
+
+**Analysis-Code** - This repostiry stores analytic code for BCRPP project. The reposirtoy is organized by project.
