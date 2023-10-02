@@ -1,6 +1,6 @@
 # About the Breast Cancer Risk Prediction Project
 
-The Breast Cancer Risk Prediction Project (BCRPP) is developing a comprehensive tool that will predict breast cancer risk – overall breast cancer and tumor subtypes of the disease – across racial and ethnic groups.
+The Breast Cancer Risk Prediction Project (BCRPP) is developing a comprehensive tool that will predict breast cancer risk – overall breast cancer and tumor subtypes of the disease – across women of diverse backgrounds.
 
 The BCRPP is an international collaborative effort that includes data on over 1.5 million women from the National Cancer Institute's Cohort Consortium Study, and other large cohort studies. The project is harmonizing information on breast cancer risk factors including, breast cancer family history, anthropometric, life-style and reproductive factors, hormonal biomarkers, mammographic density, and polygenic risk scores.
 
