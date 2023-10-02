@@ -22,6 +22,6 @@ For more information about the BCRPP, including how to propose analyses and requ
 
 **[Data-Management](https://github.com/Breast-Cancer-Risk-Prediction-Project/data-management)** - This repository stores (1) data quality control code that is ran on code that is already harmonized to the BCRPP data dictionary; (2) code for generating summary statistics of BCRPP data that are presented on the BCRPP data platform
 
-**Analysis-Code** - This repostiry stores analytic code for BCRPP project. The reposirtoy is organized by project.
+**[Analysis-Code](https://github.com/Breast-Cancer-Risk-Prediction-Project/Analysis-Code)** - This repostiry stores analytic code for BCRPP project. The reposirtoy is organized by project.
 
 
